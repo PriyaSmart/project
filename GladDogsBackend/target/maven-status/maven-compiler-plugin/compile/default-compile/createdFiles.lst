@@ -1,0 +1,8 @@
+com\gladdogs\model\UserRegCred.class
+com\gladdogs\GladDogsBackend\DBConfiguration.class
+com\gladdogs\serviceimpl\UserServiceImpl.class
+com\gladdogs\daoimpl\UserDaoImpl.class
+com\gladdogs\DAO\UserDao.class
+com\gladdogs\GladDogsBackend\App.class
+com\gladdogs\service\Userservice.class
+com\gladdogs\model\UserReg.class
